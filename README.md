@@ -1,2 +1,2 @@
-# suyashRathor.github.io
+# suyash.github.io
 Portfolio
